@@ -30,10 +30,10 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://fusionfive.com",
-    title: "Fusion Five Devstars | Software Development & Digital Solutions",
+    title: "Fusion Five Tech | Software Development & Digital Solutions",
     description:
       "Crafting tomorrow's digital solutions today. Expert software development team specializing in web, mobile, and cloud solutions.",
-    siteName: "Fusion Five Devstars",
+    siteName: "Fusion Five Tech",
   },
   twitter: {
     card: "summary_large_image",
