@@ -42,3 +42,7 @@ npm dev
 ```bash
 yarn dev
 ```
+
+## Opening the project
+
+ Open your browser and got to [localhost:3000](http://localhost:3000)
