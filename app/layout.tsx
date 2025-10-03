@@ -7,7 +7,7 @@ import "./globals.css"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "Fusion Five Devstars | Software Development & Digital Solutions",
+  title: "Fusion Five Tech | Software Development & Digital Solutions",
   description:
     "Fusion Five Tech is a passionate team of developers creating scalable, user-focused software solutions. We specialize in web development, mobile apps, cloud solutions, and technical consulting for businesses and startups.",
   keywords: [
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     "mobile apps",
     "cloud solutions",
     "full-stack development",
-    "Fusion F5ve",
+    "Fusion Five Tech",
     "digital solutions",
     "Zimbabwe developers",
     "website development",
