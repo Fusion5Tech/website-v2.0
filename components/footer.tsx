@@ -47,7 +47,8 @@ export default function Footer() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>hello@fusionf5ve.com</li>
-              <li>+263 784 058 498</li>
+              <li>+263 77 510 1044</li>
+              <li>+263 78 405 8498</li>
               <li>Harare, Zimbabwe</li>
             </ul>
           </div>
