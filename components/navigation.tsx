@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { Menu, X } from "lucide-react"
 
@@ -32,8 +33,9 @@ export default function Navigation() {
     >
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          <a href="#home" className="text-2xl font-bold text-foreground hover:text-accent transition-colors">
-            Fusion F5ve
+          <a href="#home" className="flex items-center gap-3 text-2xl font-bold text-foreground hover:text-accent transition-colors">
+            <Image src="/logo.jpeg" alt="Fusion F5ve logo" width={65} height={65} className="h-14 w-14 object-contain" priority />
+            <span>Fusion F5ve</span>
           </a>
 
           {/* Desktop Navigation */}
